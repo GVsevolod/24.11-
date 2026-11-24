@@ -1,1 +1,4 @@
+import math
+x = math.ceil(3.7) + math.floor(3.7)
+print(x)
 
