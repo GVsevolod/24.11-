@@ -1,0 +1,5 @@
+import math
+r = 5
+s = math.pi * r ** 2
+print(s)
+
