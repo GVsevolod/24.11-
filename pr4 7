@@ -1,0 +1,6 @@
+x = int(input()) #номер места
+if 1 <= x <= 36:
+    compartment =(x - 1) // 4 + 1 #номер вагона
+    print(compartment)
+else:
+    print('такого места нет')
